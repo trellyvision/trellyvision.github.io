@@ -27,8 +27,7 @@ function displayWorks(medium, genre) {
 		var work = data[i];
 		if (work.medium.includes(medium) && (work.genre.includes(genre) || genre == 'All')) {
 			var content = '';
-			html += `<div onclick="openLightbox('${work.type}', '${work.youtubeUrl}', '${work.photoFilenames}')">
-						<img src="${work.thumbnailFilename}">
+			html += `<div onclick="openLightbox('${work.type}', '${work.youtubeUrl}', '${work.photoFilenames}')" style="background-image: url('${work.thumbnailFilename}')">
 						<div class="work-info">
 							<div class="title">${work.title}</div>
 							<!--<div class="kind">${work.medium}</div>-->
