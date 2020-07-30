@@ -289,14 +289,9 @@ a.action button:hover .arrow {
 	width: 50%;
 	padding-bottom: 28.125%;
 	height: 0;
-}
-
-.work .content > div img {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	left: 0;
-	top: 0;
+	background-size: cover;
+    background-position: center;
+	overflow: hidden;
 }
 
 .work-info {
@@ -366,7 +361,6 @@ a.action button:hover .arrow {
 
 .bio p a {
 	padding-bottom: 2px;
-	border-bottom: 1px dashed #36363688;
 	opacity: 0.5;
 	transition: all 0.3s;
 }
@@ -381,32 +375,18 @@ a.action button:hover .arrow {
 
 .about-content {
 	padding: 2em 0 0 0;
+	margin: 2em 0 0 0;
 	border-top: 1px solid rgba(54, 54, 54, 0.1);
 	display: flex;
 	flex-wrap: wrap;
 }
 
-.about-content h4 {
-	min-width: 25%;
-}
-
-.about-list {
-	display: flex;
-	flex-wrap: wrap;
-	width: 75%;
+.about-content b {
+	min-width: 100%;
 }
 
 .about-list p {
-	min-width: 33%;
-	margin: 0 0 2em 0;
-}
-
-.about-list b,i {
-	font-size: .75em;
-}
-
-.about-list i {
-	opacity: 0.75;
+	margin: 0;
 }
 
 .contact .container {
