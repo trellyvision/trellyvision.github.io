@@ -126,6 +126,24 @@ var data = [
         "dateCreated": "2020-01-12T05:00:00.000Z"
     },
     {
+        "title": "Jen Hoover Mic'd Up",
+        "type": "video",
+        "medium": "Film",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f223fa438cedb861ea50df5_JenHoover_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZnUkCqHpqew",
+        "dateCreated": "2019-12-08T05:00:00.000Z"
+    },
+    {
+        "title": "Wake Forest University Santa's Helper",
+        "type": "video",
+        "medium": "Film",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2235bfabe392658a00c1c9_Screen%20Shot%202020-07-29%20at%2010.51.24%20PM.png",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1er4eQNCSaE",
+        "dateCreated": "2019-12-06T05:00:00.000Z"
+    },
+    {
         "title": "Wake Forest Field Hockey 2019 Season Recap",
         "type": "video",
         "medium": "Film",
@@ -153,6 +171,15 @@ var data = [
         "dateCreated": "2019-10-28T04:00:00.000Z"
     },
     {
+        "title": "ITA Carolina Regionals",
+        "type": "photo",
+        "medium": "Photography",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2231c4820e0b5b586ed2e9_Lexi%2BPeyton5.png",
+        "photoFilenames": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222db0f4f1e88101ca4982_Anna_Brylin7.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222db063ca0903d510c10c_Anna_Brylin8.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222deb68fd8efce8bca08c_Anna_Brylin.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222e5700b770390599a801_Anna_Campana5.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222e7887c2cd19745cfb86_Anna_Campana6.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222eb65a32ac1edd1782b0_Carolyn.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222ef386393981fe020740_Carolyn2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222f3aaebf57eea89fb15b_Eliza3.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222f625a32acef3017849a_Eliza4.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222fd06eac47c5c99c3211_Eliza5.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222ff6ba48deabfa559fd1_Eliza6.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f223026bfc5c6ca977aa672_Lexi%2BPeyton3.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22304e6a43cf0da3e688ac_Lexi2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22307db57c7a1091c72224_Lexi3.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2230b363ca09cf4210c52e_Lexi8.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2230dd53fb855a02ce66ca_Lexi9.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22313353fb858581ce67b0_MC.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2231c4820e0b5b586ed2e9_Lexi%2BPeyton5.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2232008f5d4c23d82fd661_Peyton2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f223221abe392768700bbe4_Peyton3.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2232598f5d4c44d02fd6d3_Saby2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22327acb4fb31d42441552_Saby3.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2232c26eac4704ae9c3a36_Saby4.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2232e4c3cfa01f781843ee_Saby5.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f223300edf09d8fd6287d9e_Saby7.png",
+        "dateCreated": "2019-10-28T04:00:00.000Z"
+    },
+    {
         "title": "Women's Soccer Promo | Wake Forest v. Florida State",
         "type": "video",
         "medium": "Film",
@@ -171,6 +198,24 @@ var data = [
         "dateCreated": "2019-10-24T04:00:00.000Z"
     },
     {
+        "title": "Field Hockey Promo |  Wake v UNC ",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2240cdf9d1b1c466e5ee4c_Grace_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EqUAxGauMdk",
+        "dateCreated": "2019-10-18T04:00:00.000Z"
+    },
+    {
+        "title": "Field Hockey Promo | Wake v Michigan State",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f223cd56eac4782189c4695_Screen%20Shot%202020-07-29%20at%2011.21.24%20PM.png",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mHzRNigR6Eg",
+        "dateCreated": "2019-10-13T04:00:00.000Z"
+    },
+    {
         "title": "Chad + Alanna Engagement",
         "type": "photo",
         "medium": "Photography",
@@ -180,13 +225,22 @@ var data = [
         "dateCreated": "2019-10-05T04:00:00.000Z"
     },
     {
-        "title": "Women's Soccer Promo | Wake Forest vs. NCST",
+        "title": "Field Hockey Promo | Wake v Liberty",
         "type": "video",
-        "medium": "Film",
-        "genre": "Motion",
-        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f185de54f2d9ba30e16af7c_Lil_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=z8DvQhhwVIg",
-        "dateCreated": "2019-09-29T04:00:00.000Z"
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f223e637682cb7ec123d179_Elisha_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=98LjzGez9iU",
+        "dateCreated": "2019-09-22T04:00:00.000Z"
+    },
+    {
+        "title": "Women's Soccer Promo | Wake v South Florida ",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2242938639390c2f022417_Screen%20Shot%202020-07-29%20at%2011.46.11%20PM.png",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eA4bprPy7sQ",
+        "dateCreated": "2019-09-15T04:00:00.000Z"
     },
     {
         "title": "Caroline + Chris Wedding",
@@ -214,6 +268,15 @@ var data = [
         "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5d6b06360b8020acdb2d2c80_maxresdefault%20(7).jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=v_R_2_Y1N8I",
         "dateCreated": "2019-07-26T04:00:00.000Z"
+    },
+    {
+        "title": "Women's Soccer Stage Photos",
+        "type": "photo",
+        "medium": "Photography",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222555b57c7aa89bc71003_Screen%20Shot%202020-07-29%20at%209.41.18%20PM.png",
+        "photoFilenames": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2220f78d2ee93e7574e318_04_VICKYKRUG_1.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2221209fbbac12bd1315ca_07_ABBYMCNAMARA_2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22215efd5188869fad44bf_21_RYANNEBROWN_2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22218580466c1f393be825_28_SOFIAROSSI_1.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2221af63009c281eddbb60_33_HANNAHBETFORT_1.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2221db80466c687b3be8b1_88_HULDAARNARSDOTTIR_3.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22233abfb1175db0097753_1_KAITLYNPARKS_2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22235c61291cc3621d56d1_08_HALEYJORDAHL_1.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22237fcb4fb306e143fa4d_08_HALEYJORDAHL_2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22239d9cca2866bcb9e2ed_10_ESTELLE%20LAURIER_1.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2223bf5c507aa4b6727345_10_ESTELLE%20LAURIER_4.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2223e1b57c7a3285c70e14_31_BROOKESMITH_1.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2223fd00b770350a99982d_31_BROOKESMITH_4.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22242ced6fc65444309d4f_34_%20LILY%20SCHNEIDER_2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222454d6b41a6d43441d12_34_%20LILY%20SCHNEIDER_3.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222481bfb117653a097a3b_99_MADISONHAMMOND_5.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2224b063183f7582ffdf98_99_MADISONHAMMOND_6.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2224d2dc1e150879b25faa_99_MADISONHAMMOND_8.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222555b57c7aa89bc71003_Screen%20Shot%202020-07-29%20at%209.41.18%20PM.png",
+        "dateCreated": "2019-07-24T04:00:00.000Z"
     },
     {
         "title": "Women's Soccer Promo | Wake Forest Schedule Release",
@@ -270,6 +333,42 @@ var data = [
         "dateCreated": "2019-02-01T05:00:00.000Z"
     },
     {
+        "title": "Wake v Zion Williamson",
+        "type": "photo",
+        "medium": "Photography",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b9105f105b27d0d382fd_Brandon_Takeoff.png",
+        "photoFilenames": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b870a6a923369dfb7e45_Bench_Cheering_2.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b8a529c6adbb077129b2_Bench_Cheering.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b9105f105b27d0d382fd_Brandon_Takeoff.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b916a6a92306affb8039_Brandon%2BBarrett_Pullup.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b945cf522b127d3dee5b_Chaundee_Drive_Barrett.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b972caf168560e0ecc34_Chaundee_Layup.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22b945cf522b127d3dee5b_Chaundee_Drive_Barrett.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb76aeff43b4d8d6a9b1_Chaundee_TurnUp.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb76364f6f21e3bcfe7c_Isaiah_Pullup.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22ba1e82f53f57f963547f_Screen%20Shot%202020-07-30%20at%208.16.13%20AM.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb7529ca592737bf76b5_Isaiah%2BZion.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb75caf168ad0f0ed093_Jaylen_OverBarrett.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb75f90ddfb3cc2713d8_Jaylen%2BZion_Layup.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb7519e812b9b9288657_Sharone_Layup.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb7540a63e34eae9d240_Sharone_Layup_Sepia%20Tone.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb75a9914e6433893c62_Sharone_Layup_White.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22bb74c703fa02d0ffde74_Team_Huddle.png",
+        "dateCreated": "2019-01-08T05:00:00.000Z"
+    },
+    {
+        "title": "Road to Final Four",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22ce686e87c96545f72f39_Liv_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=5Ow3EUF5E_k",
+        "dateCreated": "2018-11-16T05:00:00.000Z"
+    },
+    {
+        "title": "Field Hockey Highlights | Wake v Iowa (First Round NCAA)",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22cde4ad322466b9ba7e23_FH_NCAA_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EyEtcoqeOWQ",
+        "dateCreated": "2018-11-09T05:00:00.000Z"
+    },
+    {
+        "title": "Women's Tennis Stage Photos",
+        "type": "photo",
+        "medium": "Photography",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2226753166e46a0c5bba6a_Anna1631.png",
+        "photoFilenames": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22264fcb4fb395fc43ff03_Anna1308.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2226753166e46a0c5bba6a_Anna1631.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22269f3166e417175bba70_Anna1635.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2226ca87c2cd02ff5ce177_Chand1935.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2226eebfc5c6fb967a8279_chandler1599.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2227155a32acd2cc1774e9_chandler01613.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222736fd51880ed9ad4c26_Eliza1519.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f222755f9d1b10b44e5bd3e_Eliza1526.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22277607bc7fb1c36832eb_Emma1313.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2227935a32ac768e177552_Emma1799.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2227bb8f5d4c66a52fc8b0_Jojo1469.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2227db00b7705470999da8_Jojo1589.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2227fe68e45978358861da_Lexi.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22282d9cca2864aeb9e915_Lexi1374.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2228618639393b8f01fbc0_Lexi1384.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2228937682cb421b23a7c0_PeytonPesavento1.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2228bf63183f0f6bffeba3_PeytonPesavento4.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2228f063009c93d3ddcbd4_PeytonPesavento5.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22291c63009c2360ddcc62_Saby1564.png, https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f22295d7be7e639e9de876a_Saby1568.png",
+        "dateCreated": "2018-10-25T04:00:00.000Z"
+    },
+    {
         "title": "2018 WFU vs. Penn St. | WSOC Highlights",
         "type": "video",
         "medium": "Motion Graphics",
@@ -322,15 +421,6 @@ var data = [
         "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5d719e7cf0cb5449a124eccb_hqdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=GtspJUGbiTw",
         "dateCreated": "2017-12-20T05:00:00.000Z"
-    },
-    {
-        "title": "2017-18 Wake Forest Men's Basketball Commecial",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5d6b045e85adc991290b72b8_maxresdefault%20(2).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=c79RLWNP0Jg",
-        "dateCreated": "2017-12-01T05:00:00.000Z"
     },
     {
         "title": "Notre Dame Football: 2017-2018 HYPE VIDEO",
