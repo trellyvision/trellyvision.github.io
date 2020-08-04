@@ -240,6 +240,18 @@ a.action button:hover .arrow {
 	transform: translateY(3px) translateX(4px);
 }
 
+a.action.bio button {
+	border: none;
+	border-radius: 0;
+	padding: 0;
+	color: #363636;
+	font-size: 20px;
+}
+
+a.action.bio button:hover {
+	background: none;
+}
+
 .mediums button {
 	font-weight: bold;
 	font-size: 1.5em;
@@ -427,6 +439,10 @@ a.action button:hover .arrow {
 
 .about-photo img {
 	width: 100%;
+}
+
+.slbIframeCont {
+	width: 40em !important;
 }
 
 //#ece68b #eae6a6 #e8e5b0 #e7e6cc #e7e5d4 #e3e5df #e3e4e5
