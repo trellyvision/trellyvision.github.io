@@ -7,7 +7,7 @@ body {
 	line-height: 1.5em;
 	font-family: urw-din, sans-serif;
 	font-weight: 400;
-	font-size: 20px;
+	font-size: 16px;
 	color: #363636;
 }
 
@@ -32,7 +32,7 @@ h2 {
 h3 {
 	font-family: urw-din-condensed,sans-serif;
 	font-weight: 900;
-	font-size: 5em;
+	font-size: 4em;
 	line-height: 1em;
 	margin: 0;
 	text-transform: uppercase;
@@ -60,6 +60,10 @@ h4 {
 
 #navbar.black .logo, #navbar.black .nav-links, #navbar.black .menu-btn {
 	color: #363636;
+}
+
+#navbar.black {
+	background: #ffffff;
 }
 
 .nav-links, .menu-btn {
@@ -156,6 +160,7 @@ h4 {
 .container {
 	max-width: 1500px;
 	margin: auto;
+	overflow: hidden;
 }
 
 .footer {
@@ -179,7 +184,7 @@ h4 {
 }
 
 .container {
-	padding: 2em;
+	padding: 1em;
 }
 
 a {
@@ -201,31 +206,11 @@ a.action button {
 	padding: 1em 1.5em;
 	font-family: urw-din, sans-serif;
 	font-weight: 400;
-	font-size: 24px;
+	font-size: 20px;
 	border: 2px solid #ffffff;
 	background: none;
 	color: #ffffff;
 	transition: all .3s;
-}
-
-a.action.hero-action button {
-	padding: 48px 72px;
-	border-radius: 72px;
-	font-size: 3em;
-	text-align: left;
-	font-weight: 600;
-}
-
-a.action.hero-action button span {
-	font-size: 1em;
-}
-
-a.action.hero-action button .arrow {
-	transform: translateY(12px);
-}
-
-a.action.hero-action button:hover .arrow {
-	transform: translateY(12px) translateX(114px);
 }
 
 a.action button:hover {
@@ -248,7 +233,7 @@ a.action.bio button {
 	border-radius: 0;
 	padding: 0;
 	color: #363636;
-	font-size: 20px;
+	font-size: 16px;
 	text-align: left;
 }
 
@@ -392,7 +377,7 @@ a.action.bio button:hover {
 }
 
 .contact-links {
-	font-size: 2em;
+	font-size: 1.5em;
 	line-height: 2em;
 }
 
@@ -438,13 +423,17 @@ a.action.bio button:hover {
 
 	h2 {
 		font-size: 1em;
-		letter-spacing: 6px;
+		letter-spacing: 5px;
 		margin: .75em 0 1em 0;
 	}
 }
 
 
 @media only screen and (min-width: 900px) {
+	body {
+		font-size: 20px;
+	}
+	
 	h1 {
 		font-size: 12em;
 	}
@@ -455,6 +444,18 @@ a.action.bio button:hover {
 		margin: .75em 0 1em 0;
 	}
 	
+	h3 {
+		font-size: 5em;
+	}
+	
+	#navbar.black {
+		background: none;
+	}
+	
+	.container {
+		padding: 2em;
+	}
+	
 	.menu-btn {
 		display: none;
 	}
@@ -463,13 +464,30 @@ a.action.bio button:hover {
 		display: block;
 	}
 	
+	a.action button {
+		font-size: 24px;
+	}
+	
 	.work .content > div {
-		width: 50%;
-		padding-bottom: 28.125%;
+		width: 33%;
+		padding-bottom: 18.5625%;
+	}
+	
+	.work-info .title {
+		font-size: 1.5em;
 	}
 	
 	.bio .copy {
 		width: 50%;
+	}
+	
+	a.action.bio button {
+		font-size: 20px;
+	}
+	
+	.contact-links {
+		font-size: 2em;
+		line-height: 2em;
 	}
 
 	.contact .container {
@@ -483,11 +501,26 @@ a.action.bio button:hover {
 	
 	.about-photo {
 		width: 45%;
+		padding-bottom: 65%;
 	}
+	
+	.menu-btn {
+		font-size: 30px;
+		cursor: pointer;
+	}
+	
+	.sidenav .closebtn {
+		padding: 20px 30px;
+		position: absolute;
+		top: 0;
+		right: 0;
+		font-size: 36px;
+	}
+	
 }
 
 .menu-btn {
-	font-size: 30px;
+	font-size: 20px;
 	cursor: pointer;
 }
 
@@ -518,11 +551,11 @@ a.action.bio button:hover {
 }
 
 .sidenav .closebtn {
-	padding: 20px 30px;
+	padding: 20px;
 	position: absolute;
 	top: 0;
 	right: 0;
-	font-size: 36px;
+	font-size: 28px;
 }
 
 @media screen and (max-height: 450px) {
