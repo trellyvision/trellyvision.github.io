@@ -1,5 +1,14 @@
 var data = [
     {
+        "title": "Adams Wedding | Wedding Trailer // Most Epic Wedding Moments",
+        "type": "video",
+        "medium": "Film",
+        "genre": "Weddings",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2a048c5bde44406bd68641_Wedding_Trailer_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0CKyzAaS1KA",
+        "dateCreated": "2020-08-02T04:00:00.000Z"
+    },
+    {
         "title": "Maria Whitehead | Fight for Five",
         "type": "video",
         "medium": "Film",
@@ -126,7 +135,7 @@ var data = [
         "dateCreated": "2020-01-12T05:00:00.000Z"
     },
     {
-        "title": "Jen Hoover Mic'd Up",
+        "title": "Jen Hoover Mic'dUp",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -138,7 +147,7 @@ var data = [
         "title": "Wake Forest University Santa's Helper",
         "type": "video",
         "medium": "Film",
-        "genre": "Sports",
+        "genre": "Documentaries",
         "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f2235bfabe392658a00c1c9_Screen%20Shot%202020-07-29%20at%2010.51.24%20PM.png",
         "youtubeUrl": "https://www.youtube.com/watch?v=1er4eQNCSaE",
         "dateCreated": "2019-12-06T05:00:00.000Z"
@@ -162,15 +171,6 @@ var data = [
         "dateCreated": "2019-10-31T04:00:00.000Z"
     },
     {
-        "title": "Women’s Tennis Completes ITA Carolina Regional",
-        "type": "video",
-        "medium": "Film",
-        "genre": "Sports",
-        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f17816e23375f7a32e86a97_Screen%20Shot%202020-07-21%20at%206.59.27%20PM.png",
-        "youtubeUrl": "https://www.youtube.com/watch?v=cCLoHt2dqqw",
-        "dateCreated": "2019-10-28T04:00:00.000Z"
-    },
-    {
         "title": "ITA Carolina Regionals",
         "type": "photo",
         "medium": "Photography",
@@ -180,10 +180,19 @@ var data = [
         "dateCreated": "2019-10-28T04:00:00.000Z"
     },
     {
-        "title": "Women's Soccer Promo | Wake Forest v. Florida State",
+        "title": "Women’s Tennis Completes ITA Carolina Regional",
         "type": "video",
         "medium": "Film",
-        "genre": "Motion",
+        "genre": "Sports",
+        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f17816e23375f7a32e86a97_Screen%20Shot%202020-07-21%20at%206.59.27%20PM.png",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cCLoHt2dqqw",
+        "dateCreated": "2019-10-28T04:00:00.000Z"
+    },
+    {
+        "title": "Women's Soccer Promo | Wake Forest v. Florida State",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
         "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5f185c93db553214fb3d4706_Brooke_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=WnlHmvrJxII",
         "dateCreated": "2019-10-27T04:00:00.000Z"
@@ -198,7 +207,7 @@ var data = [
         "dateCreated": "2019-10-24T04:00:00.000Z"
     },
     {
-        "title": "Field Hockey Promo |  Wake v UNC ",
+        "title": "Field Hockey Promo |  Wake v UNC",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -234,7 +243,7 @@ var data = [
         "dateCreated": "2019-09-22T04:00:00.000Z"
     },
     {
-        "title": "Women's Soccer Promo | Wake v South Florida ",
+        "title": "Women's Soccer Promo | Wake v South Florida",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -378,15 +387,6 @@ var data = [
         "dateCreated": "2018-09-02T04:00:00.000Z"
     },
     {
-        "title": "WFU 2017-18 Sports Year Recap",
-        "type": "video",
-        "medium": "Film",
-        "genre": "Sports",
-        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5d6b0579a3a53e660bfcdeaa_maxresdefault%20(3).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=fHpPKC1TqCA",
-        "dateCreated": "2018-09-01T04:00:00.000Z"
-    },
-    {
         "title": "Cathlynn + Jeremy's Wedding",
         "type": "video",
         "medium": "Film",
@@ -430,15 +430,6 @@ var data = [
         "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5d6b07ad85adc96c9a0b783e_maxresdefault%20(8).jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=f2IDRSF6IvQ",
         "dateCreated": "2017-06-07T04:00:00.000Z"
-    },
-    {
-        "title": "Wake Forest University | \"Demon Deacons Work Hard\" | Sports Highlights (2016-17)",
-        "type": "video",
-        "medium": "Film",
-        "genre": "Sports",
-        "thumbnailFilename": "https://uploads-ssl.webflow.com/5d5f5a1a14f5cde32bc63ed9/5d719e68a50e603b0553dc21_maxresdefault%20(10).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=R-s0Z90dqro",
-        "dateCreated": "2017-06-01T04:00:00.000Z"
     }
 ];
 
