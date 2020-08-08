@@ -20,6 +20,7 @@
 			<a class="nav-links" href="#work">Work</a>
 			<a class="nav-links" href="#about">About</a>
 			<a class="nav-links" href="#contact">Contact</a>
+			<span class="menu-btn" onclick="openNav()">&#9776;</span>
 		</div>
 		<div class="background-video">
 			<video autoplay muted loop>
@@ -113,6 +114,22 @@
 				</p>
 			</div>
 		</div>
+		<div id="mySidenav" class="sidenav">
+			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+			<a href="#work" onclick="closeNav()">Work</a>
+			<a href="#about" onclick="closeNav()">About</a>
+			<a href="#contact" onclick="closeNav()">Contact</a>
+		</div>		
+
+		<script>
+		function openNav() {
+			document.getElementById("mySidenav").style.width = "250px";
+		}
+
+		function closeNav() {
+			document.getElementById("mySidenav").style.width = "0";
+		}
+		</script>
 		<script type="text/javascript" src="simple-lightbox/simpleLightbox.min.js"></script>
 		<script type="text/javascript" src="data.js"></script>
 		<script type="text/javascript" src="script.js"></script>
