@@ -58,47 +58,10 @@ function setActiveFilters(medium, genre) {
 	}
 }
 
-function debounce(callback, time) {
-	var timeout;
-	return function() {
-		var context = this;
-		var args = arguments;
-		if (timeout) {
-			clearTimeout(timeout);
-		}
-		timeout = setTimeout(function() {
-			timeout = null;
-			callback.apply(context, args);
-		}, time);
-	}
-}
-
-const sliders = document.querySelectorAll('.slide-in');
-
-function checkSlide(e) {
-	sliders.forEach(slider => {
-		const slideAt = (window.scrollY + window.innerHeight) - 40;
-		const imageBottom = slider.offsetTop + slider.offsetHeight;
-		const isHalfShown = slideAt > slider.offsetTop;
-		const isNotScrolledPast = window.scrollY < imageBottom;
-		if (isHalfShown && isNotScrolledPast) {
-			slider.classList.add('active');
-		} else {
-			slider.classList.remove('active');
-		}
-	})
-}
-
-window.addEventListener('scroll', debounce(checkSlide,10));
-
 window.onscroll = function() {
 	var navbar = document.getElementById('navbar');
 	window.pageYOffset > window.innerHeight - 40 ? navbar.classList.add('black') : navbar.classList.remove('black');
 }
-
-displayMediums();
-displayGenres(defaultMedium);
-displayWorks(defaultMedium, defaultGenre);
 
 function openLightbox(type, youtubeUrl, photoFilenames) {
 	if (type == 'video') {
@@ -111,3 +74,7 @@ function openLightbox(type, youtubeUrl, photoFilenames) {
 		})
 	}
 }
+
+displayMediums();
+displayGenres(defaultMedium);
+displayWorks(defaultMedium, defaultGenre);
