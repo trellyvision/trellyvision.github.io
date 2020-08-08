@@ -14,7 +14,7 @@ body {
 h1 {
 	font-family: urw-din-condensed,sans-serif;
 	font-weight: 900;
-	font-size: 12em;
+	font-size: 9em;
 	text-transform: uppercase;
 	margin: 0;
 	line-height: .9em;
@@ -23,10 +23,10 @@ h1 {
 h2 {
 	font-family: urw-din, sans-serif;
 	font-weight: 400;
-	font-size: 2em;
+	font-size: 1.5em;
 	text-transform: uppercase;
-	letter-spacing: 12px;
-	margin: .75em 0 1em 0;
+	letter-spacing: 9px;
+	margin: .5625em 0 1em 0;
 }
 
 h3 {
@@ -53,28 +53,28 @@ h4 {
 	width: 100%;
 	top: 0;
 	padding: 1em 0;
-	transition: top 0.3s;
+	transition: all 0.3s;
 	z-index: 1;
 	background: none;
 }
 
-#navbar.black .logo {
+#navbar.black .logo, #navbar.black .nav-links, #navbar.black .menu-btn {
 	color: #363636;
 }
 
-#navbar.black .nav-links {
-	color: #363636;
-}
-
-.nav-links {
+.nav-links, .menu-btn {
 	margin: 0 1em 0 0;
 	color: #ffffff;
 	transition: opacity 0.3s;
 	transition: all 0.3s;
 }
 
-.nav-links:hover, .contact-links a:hover {
+.nav-links:hover, .contact-links a:hover, .menu-btn:hover {
 	opacity: 0.5;
+}
+
+.nav-links {
+	display: none;
 }
 
 .logo {
@@ -156,7 +156,6 @@ h4 {
 .container {
 	max-width: 1500px;
 	margin: auto;
-	padding: 2em;
 }
 
 .footer {
@@ -177,6 +176,10 @@ h4 {
 
 .footer .kr-info .social {
 	float: right;
+}
+
+.container {
+	padding: 2em;
 }
 
 a {
@@ -246,6 +249,7 @@ a.action.bio button {
 	padding: 0;
 	color: #363636;
 	font-size: 20px;
+	text-align: left;
 }
 
 a.action.bio button:hover {
@@ -298,11 +302,11 @@ a.action.bio button:hover {
 .work .content > div {
 	cursor: pointer;
 	position: relative;
-	width: 50%;
-	padding-bottom: 28.125%;
+	width: 100%;
+	padding-bottom: 56.25%;
 	height: 0;
 	background-size: cover;
-    background-position: center;
+	background-position: center;
 	overflow: hidden;
 }
 
@@ -352,21 +356,6 @@ a.action.bio button:hover {
 	flex-wrap: wrap;
 }
 
-.testimonial-video {
-	position: relative;
-	height: 0;
-	width: 45%;
-	padding-bottom: 25.3125%;
-}
-
-.testimonial-video iframe {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	left: 0;
-	top: 0;
-}
-
 .bio p {
 	margin: 0 0 1em 0;
 }
@@ -379,10 +368,6 @@ a.action.bio button:hover {
 
 .bio p a:hover {
 	opacity: 1;
-}
-
-.bio .copy {
-	width: 50%;
 }
 
 .about-content {
@@ -401,12 +386,9 @@ a.action.bio button:hover {
 	margin: 0;
 }
 
-.contact .container {
-	display: flex;
-}
-
 .contact .contact-links, .contact h3 {
-	width: 50%;
+	width: 100%;
+	text-align: center;
 }
 
 .contact-links {
@@ -434,7 +416,11 @@ a.action.bio button:hover {
 }
 
 .about-photo {
-	width: 45%;
+	width: 100%;
+	height: 0;
+	padding-bottom: 100%;
+	overflow: hidden;
+	margin-bottom: 1.5em;
 }
 
 .about-photo img {
@@ -445,4 +431,102 @@ a.action.bio button:hover {
 	width: 40em !important;
 }
 
+@media only screen and (max-width: 658px) {
+	h1 {
+		font-size: 6em;
+	}
+
+	h2 {
+		font-size: 1em;
+		letter-spacing: 6px;
+		margin: .75em 0 1em 0;
+	}
+}
+
+
+@media only screen and (min-width: 900px) {
+	h1 {
+		font-size: 12em;
+	}
+
+	h2 {
+		font-size: 2em;
+		letter-spacing: 12px;
+		margin: .75em 0 1em 0;
+	}
+	
+	.menu-btn {
+		display: none;
+	}
+	
+	.nav-links {
+		display: block;
+	}
+	
+	.work .content > div {
+		width: 50%;
+		padding-bottom: 28.125%;
+	}
+	
+	.bio .copy {
+		width: 50%;
+	}
+
+	.contact .container {
+		display: flex;
+	}
+
+	.contact .contact-links, .contact h3 {
+		width: 50%;
+		text-align: left;
+	}
+	
+	.about-photo {
+		width: 45%;
+	}
+}
+
+.menu-btn {
+	font-size: 30px;
+	cursor: pointer;
+}
+
+.sidenav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	background-color: #e3e3e3;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 60px;
+}
+
+.sidenav a {
+	padding: 10px 10px 10px 30px;
+	text-decoration: none;
+	font-size: 24px;
+	color: #363636;
+	display: block;
+	transition: 0.3s;
+}
+
+.sidenav a:hover {
+	opacity: 0.5;
+}
+
+.sidenav .closebtn {
+	padding: 20px 30px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-size: 36px;
+}
+
+@media screen and (max-height: 450px) {
+	.sidenav {padding-top: 15px;}
+	.sidenav a {font-size: 18px;}
+}
 //#ece68b #eae6a6 #e8e5b0 #e7e6cc #e7e5d4 #e3e5df #e3e4e5
