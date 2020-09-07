@@ -27,10 +27,9 @@ function displayWorks(medium, genre) {
 		var work = data[i];
 		if (work.medium.includes(medium) && (work.genre.includes(genre) || genre == 'All')) {
 			var content = '';
-			html += `<div onclick="openLightbox('${work.type}', '${work.youtubeUrl}', '${work.photoFilenames}')" style="background-image: url('${work.thumbnailFilename}')">
+			html += `<div onclick="openLightbox('${work.type}', '${work.youtubeUrl}', '${work.photoFilenames}', '${work.slug}')" style="background-image: url('img/thumbnails/${work.thumbnailFilename}')">
 						<div class="work-info">
 							<div class="title">${work.title}</div>
-							<!--<div class="kind">${work.medium}</div>-->
 						</div>
 					</div>`;
 		}
@@ -63,14 +62,19 @@ window.onscroll = function() {
 	window.pageYOffset > window.innerHeight - 40 ? navbar.classList.add('black') : navbar.classList.remove('black');
 }
 
-function openLightbox(type, youtubeUrl, photoFilenames) {
+function openLightbox(type, youtubeUrl, photoFilenames, albumName) {
 	if (type == 'video') {
 		SimpleLightbox.open({
 			items: [youtubeUrl.replace('watch?v=', 'embed/')]
 		})
 	} else {
+		var photos = photoFilenames.split(',');
+		for (var i = 0; i < photos.length; i++) {
+			var url = 'img/albums/' + albumName + '/' + photos[i];
+			photos[i] = url;
+		}
 		SimpleLightbox.open({
-			items: photoFilenames.split(',')
+			items: photos
 		})
 	}
 }
