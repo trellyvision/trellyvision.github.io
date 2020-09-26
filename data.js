@@ -1,7 +1,6 @@
 var data = [
     {
         "title": "Adams Wedding | Wedding Trailer // Most Epic Wedding Moments",
-        "slug": "AdamsWeddingWeddingTrailerMostEpicWeddingMoments",
         "type": "video",
         "medium": "Film",
         "genre": "Weddings",
@@ -11,7 +10,6 @@ var data = [
     },
     {
         "title": "Maria Whitehead | Fight for Five",
-        "slug": "MariaWhiteheadFightforFive",
         "type": "video",
         "medium": "Film",
         "genre": "Documentaries",
@@ -21,7 +19,6 @@ var data = [
     },
     {
         "title": "Gina Conti 2019 -20 Highlights",
-        "slug": "GinaConti201920Highlights",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -31,7 +28,6 @@ var data = [
     },
     {
         "title": "Men's Tennis | Taha Baadi 2020 Highlights",
-        "slug": "MensTennisTahaBaadi2020Highlights",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -41,7 +37,6 @@ var data = [
     },
     {
         "title": "Women's Tennis Promo | Wake v UNC",
-        "slug": "WomensTennisPromoWakevUNC",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -51,7 +46,6 @@ var data = [
     },
     {
         "title": "Men's Tennis Promo | Wake v Duke v UNCG (Double-header)",
-        "slug": "MensTennisPromoWakevDukevUNCGDoubleheader",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -61,7 +55,6 @@ var data = [
     },
     {
         "title": "Men's Tennis Wake v Duke Highlights",
-        "slug": "MensTennisWakevDukeHighlights",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -71,7 +64,6 @@ var data = [
     },
     {
         "title": "Wake The Nation!",
-        "slug": "WakeTheNation",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -81,7 +73,6 @@ var data = [
     },
     {
         "title": "Jeff Wyshner Earns 300th Win",
-        "slug": "JeffWyshnerEarns300thWin",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -91,7 +82,6 @@ var data = [
     },
     {
         "title": "Wake Forest women's Golf | Season Promo",
-        "slug": "WakeForestwomensGolfSeasonPromo",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -101,7 +91,6 @@ var data = [
     },
     {
         "title": "Women's Tennis Promo | Wake v Kansas",
-        "slug": "WomensTennisPromoWakevKansas",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -111,7 +100,6 @@ var data = [
     },
     {
         "title": "Women's Tennis Wake v  Kansas Highlights",
-        "slug": "WomensTennisWakevKansasHighlights",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -121,7 +109,6 @@ var data = [
     },
     {
         "title": "Men's Tennis Lineups (Doubles) | Motion Graphics",
-        "slug": "MensTennisLineupsDoublesMotionGraphics",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -131,7 +118,6 @@ var data = [
     },
     {
         "title": "Bresky Reaches 200th Win | Men's Tennis",
-        "slug": "BreskyReaches200thWinMensTennis",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -141,7 +127,6 @@ var data = [
     },
     {
         "title": "Women's Tennis Player Headshot | Motion Graphic",
-        "slug": "WomensTennisPlayerHeadshotMotionGraphic",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -151,7 +136,6 @@ var data = [
     },
     {
         "title": "Jen Hoover Mic'dUp",
-        "slug": "JenHooverMicdUp",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -161,7 +145,6 @@ var data = [
     },
     {
         "title": "Wake Forest University Santa's Helper",
-        "slug": "WakeForestUniversitySantasHelper",
         "type": "video",
         "medium": "Film",
         "genre": "Documentaries",
@@ -171,7 +154,6 @@ var data = [
     },
     {
         "title": "Wake Forest Field Hockey 2019 Season Recap",
-        "slug": "WakeForestFieldHockey2019SeasonRecap",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -181,7 +163,6 @@ var data = [
     },
     {
         "title": "Women's Soccer Gameday Trailer | Wake Forest v Notre Dame",
-        "slug": "WomensSoccerGamedayTrailerWakeForestvNotreDame",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -201,7 +182,6 @@ var data = [
     },
     {
         "title": "Women’s Tennis Completes ITA Carolina Regional",
-        "slug": "WomensTennisCompletesITACarolinaRegional",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -211,7 +191,6 @@ var data = [
     },
     {
         "title": "Women's Soccer Promo | Wake Forest v. Florida State",
-        "slug": "WomensSoccerPromoWakeForestvFloridaState",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -221,7 +200,6 @@ var data = [
     },
     {
         "title": "Women's Soccer Gameday Trailer | Wake Forest v. Pitt",
-        "slug": "WomensSoccerGamedayTrailerWakeForestvPitt",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -231,7 +209,6 @@ var data = [
     },
     {
         "title": "Field Hockey Promo |  Wake v UNC",
-        "slug": "FieldHockeyPromoWakevUNC",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -241,7 +218,6 @@ var data = [
     },
     {
         "title": "Field Hockey Promo | Wake v Michigan State",
-        "slug": "FieldHockeyPromoWakevMichiganState",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -261,7 +237,6 @@ var data = [
     },
     {
         "title": "Field Hockey Promo | Wake v Liberty",
-        "slug": "FieldHockeyPromoWakevLiberty",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -271,7 +246,6 @@ var data = [
     },
     {
         "title": "Women's Soccer Promo | Wake v South Florida",
-        "slug": "WomensSoccerPromoWakevSouthFlorida",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -281,7 +255,6 @@ var data = [
     },
     {
         "title": "Caroline + Chris Wedding",
-        "slug": "CarolineChrisWedding",
         "type": "video",
         "medium": "Film",
         "genre": "Weddings",
@@ -291,7 +264,6 @@ var data = [
     },
     {
         "title": "Video board Headshot - Estelle Laurier - Women's Soccer",
-        "slug": "VideoboardHeadshotEstelleLaurierWomensSoccer",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -301,7 +273,6 @@ var data = [
     },
     {
         "title": "2019 WFU Women's Soccer Summer Workout",
-        "slug": "2019WFUWomensSoccerSummerWorkout",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -321,7 +292,6 @@ var data = [
     },
     {
         "title": "Women's Soccer Promo | Wake Forest Schedule Release",
-        "slug": "WomensSoccerPromoWakeForestScheduleRelease",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -331,7 +301,6 @@ var data = [
     },
     {
         "title": "Heather + Kevin's Wedding",
-        "slug": "HeatherKevinsWedding",
         "type": "video",
         "medium": "Film",
         "genre": "Weddings",
@@ -341,7 +310,6 @@ var data = [
     },
     {
         "title": "Deacs In France - Day 1 in Nice, France - Women's World Cup Game - France vs. Norway | Trelly Vision",
-        "slug": "DeacsInFranceDay1inNiceFranceWomensWorldCupGameFrancevsNorwayTrellyVision",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -351,7 +319,6 @@ var data = [
     },
     {
         "title": "2019 WFU Athletics Grad Reception",
-        "slug": "2019WFUAthleticsGradReception",
         "type": "video",
         "medium": "Film",
         "genre": "Documentaries",
@@ -361,7 +328,6 @@ var data = [
     },
     {
         "title": "2019 WFU vs. Univ. of Miami | ACC Basketball Highlights",
-        "slug": "2019WFUvsUnivofMiamiACCBasketballHighlights",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -391,7 +357,6 @@ var data = [
     },
     {
         "title": "Road to Final Four",
-        "slug": "RoadtoFinalFour",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -401,7 +366,6 @@ var data = [
     },
     {
         "title": "Field Hockey Highlights | Wake v Iowa (First Round NCAA)",
-        "slug": "FieldHockeyHighlightsWakevIowaFirstRoundNCAA",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -421,7 +385,6 @@ var data = [
     },
     {
         "title": "2018 WFU vs. Penn St. | WSOC Highlights",
-        "slug": "2018WFUvsPennStWSOCHighlights",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -431,7 +394,6 @@ var data = [
     },
     {
         "title": "Cathlynn + Jeremy's Wedding",
-        "slug": "CathlynnJeremysWedding",
         "type": "video",
         "medium": "Film",
         "genre": "Weddings",
@@ -441,7 +403,6 @@ var data = [
     },
     {
         "title": "WFU vs. UND + FSU | Women's Tennis Promo",
-        "slug": "WFUvsUNDFSUWomensTennisPromo",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
@@ -451,7 +412,6 @@ var data = [
     },
     {
         "title": "2018 Men's Basketball Hype Video vs. Notre Dame",
-        "slug": "2018MensBasketballHypeVideovsNotreDame",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -461,7 +421,6 @@ var data = [
     },
     {
         "title": "WFU Madison Hammond More than an Athlete",
-        "slug": "WFUMadisonHammondMorethananAthlete",
         "type": "video",
         "medium": "Film",
         "genre": "Documentaries",
@@ -471,7 +430,6 @@ var data = [
     },
     {
         "title": "Notre Dame Football: 2017-2018 HYPE VIDEO",
-        "slug": "NotreDameFootball20172018HYPEVIDEO",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
@@ -485,7 +443,7 @@ var defaultMedium = 'Film';
 var defaultGenre = 'All';
 
 var filters = {
-	'Film': ['All', 'Sports', 'Documentaries', 'Weddings'],
-	'Motion Graphics': ['All', 'Sports'],
-	'Photography': ['All', 'Sports', 'Weddings']
+    'Film': ['All', 'Sports', 'Documentaries', 'Weddings'],
+    'Motion Graphics': ['All', 'Sports'],
+    'Photography': ['All', 'Sports', 'Weddings']
 }
