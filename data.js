@@ -81,13 +81,13 @@ var data = [
         "dateCreated": "2020-02-21T05:00:00.000Z"
     },
     {
-        "title": "Wake Forest women's Golf | Season Promo",
+        "title": "Wake Forest Men's Soccer Media Day BTS",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
-        "thumbnailFilename": "5f1783a824a35dc710509639_WGolf_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=TkPAN32TSeY",
-        "dateCreated": "2020-02-03T05:00:00.000Z"
+        "thumbnailFilename": "MSOC_BTS.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PMJMn_TuJ6c&feature=youtu.be",
+        "dateCreated": "2020-08-14T04:00:00.000Z"
     },
     {
         "title": "Women's Tennis Promo | Wake v Kansas",
