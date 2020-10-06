@@ -135,13 +135,13 @@ var data = [
         "dateCreated": "2020-01-12T05:00:00.000Z"
     },
     {
-        "title": "Jen Hoover Mic'dUp",
+        "title": "Football BTS Video",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
-        "thumbnailFilename": "5f223fa438cedb861ea50df5_JenHoover_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=ZnUkCqHpqew",
-        "dateCreated": "2019-12-08T05:00:00.000Z"
+        "thumbnailFilename": "Football_BTS.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FI8DgKaTPto&feature=youtu.be",
+        "dateCreated": "2020-09-05T04:00:00.000Z"
     },
     {
         "title": "Wake Forest University Santa's Helper",
