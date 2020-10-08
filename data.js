@@ -86,7 +86,7 @@ var data = [
         "medium": "Film",
         "genre": "Sports",
         "thumbnailFilename": "MSOC_BTS.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=PMJMn_TuJ6c&feature=youtu.be",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PMJMn_TuJ6c",
         "dateCreated": "2020-08-14T04:00:00.000Z"
     },
     {
@@ -140,7 +140,7 @@ var data = [
         "medium": "Film",
         "genre": "Sports",
         "thumbnailFilename": "Football_BTS.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=FI8DgKaTPto&feature=youtu.be",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FI8DgKaTPto",
         "dateCreated": "2020-09-05T04:00:00.000Z"
     },
     {
