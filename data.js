@@ -1,5 +1,41 @@
 var data = [
     {
+        "title": "Savage Roasters Commercial",
+        "type": "video",
+        "medium": "Film",
+        "genre": "Sports",
+        "thumbnailFilename": "SavageRoasters_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DOLk9qG_5Iw",
+        "dateCreated": "2020-10-03T04:00:00.000Z"
+    },
+    {
+        "title": "Wake Forest Women's Soccer Hype Video",
+        "type": "video",
+        "medium": "Film",
+        "genre": "Sports",
+        "thumbnailFilename": "WSOC_HypeVid_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=P1QDfNfsnj8",
+        "dateCreated": "2020-09-10T04:00:00.000Z"
+    },
+    {
+        "title": "Football BTS Video",
+        "type": "video",
+        "medium": "Film",
+        "genre": "Sports",
+        "thumbnailFilename": "Football_BTS.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FI8DgKaTPto",
+        "dateCreated": "2020-09-05T04:00:00.000Z"
+    },
+    {
+        "title": "Wake Forest Men's Soccer Media Day BTS",
+        "type": "video",
+        "medium": "Film",
+        "genre": "Sports",
+        "thumbnailFilename": "MSOC_BTS.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PMJMn_TuJ6c",
+        "dateCreated": "2020-08-14T04:00:00.000Z"
+    },
+    {
         "title": "Adams Wedding | Wedding Trailer // Most Epic Wedding Moments",
         "type": "video",
         "medium": "Film",
@@ -81,15 +117,6 @@ var data = [
         "dateCreated": "2020-02-21T05:00:00.000Z"
     },
     {
-        "title": "Wake Forest Men's Soccer Media Day BTS",
-        "type": "video",
-        "medium": "Film",
-        "genre": "Sports",
-        "thumbnailFilename": "MSOC_BTS.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=PMJMn_TuJ6c",
-        "dateCreated": "2020-08-14T04:00:00.000Z"
-    },
-    {
         "title": "Women's Tennis Promo | Wake v Kansas",
         "type": "video",
         "medium": "Motion Graphics",
@@ -133,15 +160,6 @@ var data = [
         "thumbnailFilename": "5f16f22a02a95025801d03dc_Chan_Thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=7DFJZaApKRo",
         "dateCreated": "2020-01-12T05:00:00.000Z"
-    },
-    {
-        "title": "Football BTS Video",
-        "type": "video",
-        "medium": "Film",
-        "genre": "Sports",
-        "thumbnailFilename": "Football_BTS.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=FI8DgKaTPto",
-        "dateCreated": "2020-09-05T04:00:00.000Z"
     },
     {
         "title": "Wake Forest University Santa's Helper",
@@ -272,15 +290,6 @@ var data = [
         "dateCreated": "2019-08-03T04:00:00.000Z"
     },
     {
-        "title": "Savage Roasters Commercial",
-        "type": "video",
-        "medium": "Film",
-        "genre": "Sports",
-        "thumbnailFilename": "SavageRoasters_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=DOLk9qG_5Iw",
-        "dateCreated": "2020-10-03T04:00:00.000Z"
-    },
-    {
         "title": "Women's Soccer Stage Photos",
         "slug": "WomensSoccerStagePhotos",
         "type": "photo",
@@ -409,15 +418,6 @@ var data = [
         "thumbnailFilename": "5d6b05c90b802024152d2acc_maxresdefault%20(5).jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=WvWPv_MAcEM",
         "dateCreated": "2018-03-25T04:00:00.000Z"
-    },
-    {
-        "title": "Wake Forest Women's Soccer Hype Video",
-        "type": "video",
-        "medium": "Film",
-        "genre": "Sports",
-        "thumbnailFilename": "WSOC_HypeVid_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=P1QDfNfsnj8",
-        "dateCreated": "2020-09-10T04:00:00.000Z"
     },
     {
         "title": "WFU Madison Hammond More than an Athlete",
