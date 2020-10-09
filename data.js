@@ -411,13 +411,13 @@ var data = [
         "dateCreated": "2018-03-25T04:00:00.000Z"
     },
     {
-        "title": "2018 Men's Basketball Hype Video vs. Notre Dame",
+        "title": "Wake Forest Women's Soccer Hype Video",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
-        "thumbnailFilename": "5d6b05a1a3a53ebaddfcded3_maxresdefault%20(4).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=mby62qm-fLs",
-        "dateCreated": "2018-02-24T05:00:00.000Z"
+        "thumbnailFilename": "WSOC_HypeVid_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=P1QDfNfsnj8",
+        "dateCreated": "2020-09-10T04:00:00.000Z"
     },
     {
         "title": "WFU Madison Hammond More than an Athlete",
