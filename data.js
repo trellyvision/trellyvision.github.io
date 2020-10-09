@@ -272,13 +272,13 @@ var data = [
         "dateCreated": "2019-08-03T04:00:00.000Z"
     },
     {
-        "title": "2019 WFU Women's Soccer Summer Workout",
+        "title": "Savage Roasters Commercial",
         "type": "video",
         "medium": "Film",
         "genre": "Sports",
-        "thumbnailFilename": "5d6b06360b8020acdb2d2c80_maxresdefault%20(7).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=v_R_2_Y1N8I",
-        "dateCreated": "2019-07-26T04:00:00.000Z"
+        "thumbnailFilename": "SavageRoasters_thumbnail.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DOLk9qG_5Iw",
+        "dateCreated": "2020-10-03T04:00:00.000Z"
     },
     {
         "title": "Women's Soccer Stage Photos",
