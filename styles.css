@@ -94,7 +94,8 @@ h4 {
 }
 
 .hero {
-	min-height: 100vh;
+	height: 100vh;
+	min-height: 720px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -432,9 +433,6 @@ a.action.bio button:hover {
 
 
 @media only screen and (min-width: 900px) {
-	body {
-		font-size: 20px;
-	}
 	
 	h1 {
 		font-size: 12em;
@@ -466,10 +464,6 @@ a.action.bio button:hover {
 		display: block;
 	}
 	
-	a.action button {
-		font-size: 24px;
-	}
-	
 	.work .content > div {
 		width: 33%;
 		padding-bottom: 18.5625%;
@@ -484,7 +478,7 @@ a.action.bio button:hover {
 	}
 	
 	a.action.bio button {
-		font-size: 20px;
+		font-size: 16px;
 	}
 	
 	.contact-links {
