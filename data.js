@@ -2,7 +2,7 @@ var data = [
     {
         "title": "Savage Roasters Commercial",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "SavageRoasters_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=DOLk9qG_5Iw",
@@ -11,7 +11,7 @@ var data = [
     {
         "title": "Wake Forest Women's Soccer Hype Video",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "WSOC_HypeVid_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=P1QDfNfsnj8",
@@ -20,7 +20,7 @@ var data = [
     {
         "title": "Football BTS Video",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "Football_BTS.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=FI8DgKaTPto",
@@ -29,7 +29,7 @@ var data = [
     {
         "title": "Wake Forest Men's Soccer Media Day BTS",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "MSOC_BTS.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=PMJMn_TuJ6c",
@@ -38,7 +38,7 @@ var data = [
     {
         "title": "Adams Wedding | Wedding Trailer // Most Epic Wedding Moments",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Weddings",
         "thumbnailFilename": "5f2a048c5bde44406bd68641_Wedding_Trailer_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=0CKyzAaS1KA",
@@ -47,8 +47,8 @@ var data = [
     {
         "title": "Maria Whitehead | Fight for Five",
         "type": "video",
-        "medium": "Film",
-        "genre": "Documentaries",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
         "thumbnailFilename": "5f178808bd94e30f7fc1907e_Maria_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=q-KWNEZoJ78",
         "dateCreated": "2020-05-08T04:00:00.000Z"
@@ -56,7 +56,7 @@ var data = [
     {
         "title": "Gina Conti 2019 -20 Highlights",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5f1788d8353df9463cc957e4_Gina_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=jmVO8kbUVpM",
@@ -65,7 +65,7 @@ var data = [
     {
         "title": "Men's Tennis | Taha Baadi 2020 Highlights",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5f1700c0791d43573e9d5fbe_Taha_Thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=gNSgLzegK-U",
@@ -164,8 +164,8 @@ var data = [
     {
         "title": "Wake Forest University Santa's Helper",
         "type": "video",
-        "medium": "Film",
-        "genre": "Documentaries",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
         "thumbnailFilename": "5f2235bfabe392658a00c1c9_Screen%20Shot%202020-07-29%20at%2010.51.24%20PM.png",
         "youtubeUrl": "https://www.youtube.com/watch?v=1er4eQNCSaE",
         "dateCreated": "2019-12-06T05:00:00.000Z"
@@ -173,7 +173,7 @@ var data = [
     {
         "title": "Wake Forest Field Hockey 2019 Season Recap",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5f178abac003ff2f04eccecc_FH_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=LQcMyFatpB8",
@@ -182,7 +182,7 @@ var data = [
     {
         "title": "Women's Soccer Gameday Trailer | Wake Forest v Notre Dame",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5f1861d541b9683b7e2c1432_Screen%20Shot%202020-07-22%20at%2010.56.45%20AM.png",
         "youtubeUrl": "https://www.youtube.com/watch?v=XXeuhtqhWuQ",
@@ -201,7 +201,7 @@ var data = [
     {
         "title": "Women’s Tennis Completes ITA Carolina Regional",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5f17816e23375f7a32e86a97_Screen%20Shot%202020-07-21%20at%206.59.27%20PM.png",
         "youtubeUrl": "https://www.youtube.com/watch?v=cCLoHt2dqqw",
@@ -219,7 +219,7 @@ var data = [
     {
         "title": "Women's Soccer Gameday Trailer | Wake Forest v. Pitt",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5f185ef2cf65f581a6517641_PittHype_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=QBv0pBBwj0o",
@@ -274,7 +274,7 @@ var data = [
     {
         "title": "Caroline + Chris Wedding",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Weddings",
         "thumbnailFilename": "5f0339305340e3db953bf21f_Chris%2BCaroline_Thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=R_O8aOMJcBM",
@@ -311,7 +311,7 @@ var data = [
     {
         "title": "Heather + Kevin's Wedding",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Weddings",
         "thumbnailFilename": "5d719e60b89ebacf776d9d93_maxresdefault%20(11).jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=jtA0rU3oQRk",
@@ -320,7 +320,7 @@ var data = [
     {
         "title": "Deacs In France - Day 1 in Nice, France - Women's World Cup Game - France vs. Norway | Trelly Vision",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5e11f64dc5e98ce7c3f60446_DeacsInFrance-EPS1-thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=04KAyYV_Qek",
@@ -329,8 +329,8 @@ var data = [
     {
         "title": "2019 WFU Athletics Grad Reception",
         "type": "video",
-        "medium": "Film",
-        "genre": "Documentaries",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
         "thumbnailFilename": "5d719e8fed2157a4a4c2a598_maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=9CV2D77lx3s",
         "dateCreated": "2019-05-20T04:00:00.000Z"
@@ -404,7 +404,7 @@ var data = [
     {
         "title": "Cathlynn + Jeremy's Wedding",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Weddings",
         "thumbnailFilename": "5d719e4ef0cb54cdef24ec17_hqdefault%20(1).jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=v_vV7wNy6fs",
@@ -422,8 +422,8 @@ var data = [
     {
         "title": "WFU Madison Hammond More than an Athlete",
         "type": "video",
-        "medium": "Film",
-        "genre": "Documentaries",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
         "thumbnailFilename": "5d719e7cf0cb5449a124eccb_hqdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=GtspJUGbiTw",
         "dateCreated": "2017-12-20T05:00:00.000Z"
@@ -431,7 +431,7 @@ var data = [
     {
         "title": "Notre Dame Football: 2017-2018 HYPE VIDEO",
         "type": "video",
-        "medium": "Film",
+        "medium": "Portfolio",
         "genre": "Sports",
         "thumbnailFilename": "5d6b07ad85adc96c9a0b783e_maxresdefault%20(8).jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=f2IDRSF6IvQ",
@@ -439,11 +439,11 @@ var data = [
     }
 ];
 
-var defaultMedium = 'Film';
+var defaultMedium = 'Portfolio';
 var defaultGenre = 'All';
 
 var filters = {
-    'Film': ['All', 'Sports', 'Documentaries', 'Weddings'],
+    'Portfolio': ['All', 'Sports', 'Game Recap', 'Weddings'],
     'Motion Graphics': ['All', 'Sports'],
     'Photography': ['All', 'Sports', 'Weddings']
 }
