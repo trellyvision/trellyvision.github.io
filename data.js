@@ -157,7 +157,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:ehCnDNhpoD4:maxresdefault.jpg",
+        "thumbnailFilename": "WBB_VT_GameRecap.jpeg",
         "youtubeUrl": "https://www.youtube.com/watch?v=ehCnDNhpoD4",
         "dateCreated": "2021-01-17T05:00:00.000Z"
     },
@@ -166,7 +166,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:16c2Fdu0xGY:maxresdefault.jpg",
+        "thumbnailFilename": "WBB_Pitt_GameRecap.jpeg",
         "youtubeUrl": "https://www.youtube.com/watch?v=16c2Fdu0xGY",
         "dateCreated": "2021-02-11T05:00:00.000Z"
     },
@@ -175,7 +175,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:EOkFEBf56B4:maxresdefault.jpg",
+        "thumbnailFilename": "WBB_Clemson_GameRecap.jpeg",
         "youtubeUrl": "https://www.youtube.com/watch?v=EOkFEBf56B4",
         "dateCreated": "2021-02-14T05:00:00.000Z"
     },
@@ -194,7 +194,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:xC8RV5YOy14:maxresdefault.jpg",
+        "thumbnailFilename": "WBB_UNC_ACCTourney_GameRecap.jpeg",
         "youtubeUrl": "https://www.youtube.com/watch?v=xC8RV5YOy14",
         "dateCreated": "2021-03-04T05:00:00.000Z"
     },
