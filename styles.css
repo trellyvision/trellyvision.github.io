@@ -126,7 +126,7 @@ h4 {
   animation: grain 8s steps(10) infinite;
   background-image: url("img/noise.png");
   filter: grayscale(100%);
-  opacity: 0.7;
+  opacity: 0.5;
   content: "";
   display: block;
   height: 300%;
