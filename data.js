@@ -11,7 +11,7 @@ var data = [
     {
         "title": "Wake Forest Women's Soccer Hype Video",
         "type": "video",
-        "medium": "Portfolio",
+        "medium": "Motion Graphics",
         "genre": "Sports",
         "thumbnailFilename": "WSOC_HypeVid_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=P1QDfNfsnj8",
@@ -48,55 +48,55 @@ var data = [
         "title": "Maria Whitehead | Fight for Five",
         "type": "video",
         "medium": "Portfolio",
-        "genre": "Game Recap",
+        "genre": "Sports",
         "thumbnailFilename": "5f178808bd94e30f7fc1907e_Maria_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=q-KWNEZoJ78",
         "dateCreated": "2020-05-08T04:00:00.000Z"
     },
     {
-        "title": "Gina Conti 2019 -20 Highlights",
+        "title": "Wake Women's Basketball Intro Video",
         "type": "video",
         "medium": "Portfolio",
         "genre": "Sports",
-        "thumbnailFilename": "5f1788d8353df9463cc957e4_Gina_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=jmVO8kbUVpM",
-        "dateCreated": "2020-05-06T04:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/kRZbxpbUQtY/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kRZbxpbUQtY",
+        "dateCreated": "2020-12-10T05:00:00.000Z"
     },
     {
-        "title": "Men's Tennis | Taha Baadi 2020 Highlights",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "5f1700c0791d43573e9d5fbe_Taha_Thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=gNSgLzegK-U",
-        "dateCreated": "2020-03-12T04:00:00.000Z"
-    },
-    {
-        "title": "Women's Tennis Promo | Wake v UNC",
+        "title": "Ivana Raca In Her Bag Series (Clemson)",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f170c5a8e42760489a01ace_Anna%20C_Thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=lXo7cZjK6Yw",
-        "dateCreated": "2020-03-08T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/YEIOOA68zKA/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YEIOOA68zKA",
+        "dateCreated": "2021-02-14T05:00:00.000Z"
     },
     {
-        "title": "Men's Tennis Promo | Wake v Duke v UNCG (Double-header)",
+        "title": "Women's Basketball Team Intro Motion Graphic",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f16fd45dc92a1e3a759ca0e_Rrezzy%20%2B%20Nava.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=ap16NTdNyzY",
-        "dateCreated": "2020-03-04T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/w_blU6o_L2w/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=w_blU6o_L2w",
+        "dateCreated": "2020-12-10T05:00:00.000Z"
     },
     {
-        "title": "Men's Tennis Wake v Duke Highlights",
+        "title": "Nevaeh Brown Pregame Mix",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f16fc496e1563248d85b082_MTEN%20Wake%20v%20Duke_Thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=LPebrXk9k8Y",
-        "dateCreated": "2020-03-04T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/QlYX31f3gZ8/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QlYX31f3gZ8",
+        "dateCreated": "2020-12-03T05:00:00.000Z"
+    },
+    {
+        "title": "Field Hockey Gameday Promo | UNC vs. Wake",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http://i3.ytimg.com/vi/SNi0GiJrB-E/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SNi0GiJrB-E",
+        "dateCreated": "2020-09-20T04:00:00.000Z"
     },
     {
         "title": "Wake The Nation!",
@@ -108,85 +108,76 @@ var data = [
         "dateCreated": "2020-02-27T05:00:00.000Z"
     },
     {
-        "title": "Jeff Wyshner Earns 300th Win",
+        "title": "Women's Basketball Media Day BTS",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f16f90b8e427624ba9fdb3f_Screen%20Shot%202020-07-21%20at%209.16.39%20AM.png",
-        "youtubeUrl": "https://www.youtube.com/watch?v=s6cxLIoQv38",
-        "dateCreated": "2020-02-21T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/bjP7D9aJ39I/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bjP7D9aJ39I",
+        "dateCreated": "2020-11-01T04:00:00.000Z"
     },
     {
-        "title": "Women's Tennis Promo | Wake v Kansas",
+        "title": "Gina Conti Watching Ivana Raca Highlights",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f17078acf2c6d91871cea54_Chan%2Bthumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=WRp1W-RHc8Q",
-        "dateCreated": "2020-01-31T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/8mzuf8l2Zko/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8mzuf8l2Zko",
+        "dateCreated": "2020-10-15T04:00:00.000Z"
     },
     {
-        "title": "Women's Tennis Wake v  Kansas Highlights",
+        "title": "Ivana Raca 2k Takeover Mode",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f1706d3d691fd177b537174_AnnaB%2BSaby_Thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=JY04_9UsmeE",
-        "dateCreated": "2020-01-31T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/Uy1PCHOP_Wc/hqdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Uy1PCHOP_Wc",
+        "dateCreated": "2021-01-10T05:00:00.000Z"
     },
     {
-        "title": "Men's Tennis Lineups (Doubles) | Motion Graphics",
+        "title": "Gina Conti 2k Take Over",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f16fb5f014b41cb0dbe2700_Matt%2BDill.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=MwSiAbAyeU8",
-        "dateCreated": "2020-01-20T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/iNfKLfd5Dmw/hqdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iNfKLfd5Dmw",
+        "dateCreated": "2021-01-28T05:00:00.000Z"
     },
     {
-        "title": "Bresky Reaches 200th Win | Men's Tennis",
+        "title": "Spreading the News | Wake Forest Women's Basketball Goes Dancing",
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "5f17055ed48fc41f95268cae_Bresky_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=uMbYqpAwR_k",
-        "dateCreated": "2020-01-18T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/Om6ziZ6rDAA/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Om6ziZ6rDAA",
+        "dateCreated": "2021-03-08T05:00:00.000Z"
     },
     {
-        "title": "Women's Tennis Player Headshot | Motion Graphic",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f16f22a02a95025801d03dc_Chan_Thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=7DFJZaApKRo",
-        "dateCreated": "2020-01-12T05:00:00.000Z"
-    },
-    {
-        "title": "Wake Forest University Santa's Helper",
+        "title": "Women's Basketball Game Recap | 1/17/21 Wake vs. VT",
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "5f2235bfabe392658a00c1c9_Screen%20Shot%202020-07-29%20at%2010.51.24%20PM.png",
-        "youtubeUrl": "https://www.youtube.com/watch?v=1er4eQNCSaE",
-        "dateCreated": "2019-12-06T05:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/ehCnDNhpoD4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ehCnDNhpoD4",
+        "dateCreated": "2021-01-17T05:00:00.000Z"
     },
     {
-        "title": "Wake Forest Field Hockey 2019 Season Recap",
+        "title": "Women's Basketball Game Recap | 2/11/21 Pitt vs. Wake",
         "type": "video",
         "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "5f178abac003ff2f04eccecc_FH_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=LQcMyFatpB8",
-        "dateCreated": "2019-11-07T05:00:00.000Z"
+        "genre": "Game Recap",
+        "thumbnailFilename": "http://i3.ytimg.com/vi/16c2Fdu0xGY/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=16c2Fdu0xGY",
+        "dateCreated": "2021-02-11T05:00:00.000Z"
     },
     {
-        "title": "Women's Soccer Gameday Trailer | Wake Forest v Notre Dame",
+        "title": "Women's Basketball Game Recap | 2/14/21 Wake vs Clemson",
         "type": "video",
         "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "5f1861d541b9683b7e2c1432_Screen%20Shot%202020-07-22%20at%2010.56.45%20AM.png",
-        "youtubeUrl": "https://www.youtube.com/watch?v=XXeuhtqhWuQ",
-        "dateCreated": "2019-10-31T04:00:00.000Z"
+        "genre": "Game Recap",
+        "thumbnailFilename": "http://i3.ytimg.com/vi/EOkFEBf56B4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EOkFEBf56B4",
+        "dateCreated": "2021-02-14T05:00:00.000Z"
     },
     {
         "title": "ITA Carolina Regionals",
@@ -199,49 +190,22 @@ var data = [
         "dateCreated": "2019-10-28T04:00:00.000Z"
     },
     {
-        "title": "Women’s Tennis Completes ITA Carolina Regional",
+        "title": "Women's Basketball Game Recap | Wake vs. UNC ACC Tourney",
         "type": "video",
         "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "5f17816e23375f7a32e86a97_Screen%20Shot%202020-07-21%20at%206.59.27%20PM.png",
-        "youtubeUrl": "https://www.youtube.com/watch?v=cCLoHt2dqqw",
-        "dateCreated": "2019-10-28T04:00:00.000Z"
+        "genre": "Game Recap",
+        "thumbnailFilename": "http://i3.ytimg.com/vi/xC8RV5YOy14/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xC8RV5YOy14",
+        "dateCreated": "2021-03-04T05:00:00.000Z"
     },
     {
-        "title": "Women's Soccer Promo | Wake Forest v. Florida State",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f185c93db553214fb3d4706_Brooke_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=WnlHmvrJxII",
-        "dateCreated": "2019-10-27T04:00:00.000Z"
-    },
-    {
-        "title": "Women's Soccer Gameday Trailer | Wake Forest v. Pitt",
+        "title": "Field Hockey Game Recap | 10/22/2020 Duke vs. Wake",
         "type": "video",
         "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "5f185ef2cf65f581a6517641_PittHype_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=QBv0pBBwj0o",
-        "dateCreated": "2019-10-24T04:00:00.000Z"
-    },
-    {
-        "title": "Field Hockey Promo |  Wake v UNC",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f2240cdf9d1b1c466e5ee4c_Grace_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=EqUAxGauMdk",
-        "dateCreated": "2019-10-18T04:00:00.000Z"
-    },
-    {
-        "title": "Field Hockey Promo | Wake v Michigan State",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f223cd56eac4782189c4695_Screen%20Shot%202020-07-29%20at%2011.21.24%20PM.png",
-        "youtubeUrl": "https://www.youtube.com/watch?v=mHzRNigR6Eg",
-        "dateCreated": "2019-10-13T04:00:00.000Z"
+        "genre": "Game Recap",
+        "thumbnailFilename": "http://i3.ytimg.com/vi/fWHW-mvqvk4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fWHW-mvqvk4",
+        "dateCreated": "2020-10-22T04:00:00.000Z"
     },
     {
         "title": "Chad + Alanna Engagement",
@@ -254,24 +218,6 @@ var data = [
         "dateCreated": "2019-10-05T04:00:00.000Z"
     },
     {
-        "title": "Field Hockey Promo | Wake v Liberty",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f223e637682cb7ec123d179_Elisha_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=98LjzGez9iU",
-        "dateCreated": "2019-09-22T04:00:00.000Z"
-    },
-    {
-        "title": "Women's Soccer Promo | Wake v South Florida",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f2242938639390c2f022417_Screen%20Shot%202020-07-29%20at%2011.46.11%20PM.png",
-        "youtubeUrl": "https://www.youtube.com/watch?v=eA4bprPy7sQ",
-        "dateCreated": "2019-09-15T04:00:00.000Z"
-    },
-    {
         "title": "Caroline + Chris Wedding",
         "type": "video",
         "medium": "Portfolio",
@@ -281,34 +227,6 @@ var data = [
         "dateCreated": "2019-09-07T04:00:00.000Z"
     },
     {
-        "title": "Video board Headshot - Estelle Laurier - Women's Soccer",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f036710c2907c44801744f2_Estelle_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Q86HyI7THT8",
-        "dateCreated": "2019-08-03T04:00:00.000Z"
-    },
-    {
-        "title": "Women's Soccer Stage Photos",
-        "slug": "WomensSoccerStagePhotos",
-        "type": "photo",
-        "medium": "Photography",
-        "genre": "Sports",
-        "thumbnailFilename": "5f222555b57c7aa89bc71003_Screen%20Shot%202020-07-29%20at%209.41.18%20PM.png",
-        "photoFilenames": "5f2220f78d2ee93e7574e318_04_VICKYKRUG_1.png,5f2221209fbbac12bd1315ca_07_ABBYMCNAMARA_2.png,5f22215efd5188869fad44bf_21_RYANNEBROWN_2.png,5f22218580466c1f393be825_28_SOFIAROSSI_1.png,5f2221af63009c281eddbb60_33_HANNAHBETFORT_1.png,5f2221db80466c687b3be8b1_88_HULDAARNARSDOTTIR_3.png,5f22233abfb1175db0097753_1_KAITLYNPARKS_2.png,5f22235c61291cc3621d56d1_08_HALEYJORDAHL_1.png,5f22237fcb4fb306e143fa4d_08_HALEYJORDAHL_2.png,5f22239d9cca2866bcb9e2ed_10_ESTELLE%20LAURIER_1.png,5f2223bf5c507aa4b6727345_10_ESTELLE%20LAURIER_4.png,5f2223e1b57c7a3285c70e14_31_BROOKESMITH_1.png,5f2223fd00b770350a99982d_31_BROOKESMITH_4.png,5f22242ced6fc65444309d4f_34_%20LILY%20SCHNEIDER_2.png,5f222454d6b41a6d43441d12_34_%20LILY%20SCHNEIDER_3.png,5f222481bfb117653a097a3b_99_MADISONHAMMOND_5.png,5f2224b063183f7582ffdf98_99_MADISONHAMMOND_6.png,5f2224d2dc1e150879b25faa_99_MADISONHAMMOND_8.png,5f222555b57c7aa89bc71003_Screen%20Shot%202020-07-29%20at%209.41.18%20PM.png",
-        "dateCreated": "2019-07-24T04:00:00.000Z"
-    },
-    {
-        "title": "Women's Soccer Promo | Wake Forest Schedule Release",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f186891d354643d48192134_SeasonWSOC_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=N4t6t1ZORRo",
-        "dateCreated": "2019-07-17T04:00:00.000Z"
-    },
-    {
         "title": "Heather + Kevin's Wedding",
         "type": "video",
         "medium": "Portfolio",
@@ -316,33 +234,6 @@ var data = [
         "thumbnailFilename": "5d719e60b89ebacf776d9d93_maxresdefault%20(11).jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=jtA0rU3oQRk",
         "dateCreated": "2019-07-13T04:00:00.000Z"
-    },
-    {
-        "title": "Deacs In France - Day 1 in Nice, France - Women's World Cup Game - France vs. Norway | Trelly Vision",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "5e11f64dc5e98ce7c3f60446_DeacsInFrance-EPS1-thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=04KAyYV_Qek",
-        "dateCreated": "2019-06-10T04:00:00.000Z"
-    },
-    {
-        "title": "2019 WFU Athletics Grad Reception",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Game Recap",
-        "thumbnailFilename": "5d719e8fed2157a4a4c2a598_maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=9CV2D77lx3s",
-        "dateCreated": "2019-05-20T04:00:00.000Z"
-    },
-    {
-        "title": "2019 WFU vs. Univ. of Miami | ACC Basketball Highlights",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5d6b04172927f657c550a158_maxresdefault%20(1).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=VbeMN4g4tWQ",
-        "dateCreated": "2019-02-26T05:00:00.000Z"
     },
     {
         "title": "NBA All-Star Rising Stars Practice (2019)",
@@ -365,24 +256,6 @@ var data = [
         "dateCreated": "2019-01-08T05:00:00.000Z"
     },
     {
-        "title": "Road to Final Four",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f22ce686e87c96545f72f39_Liv_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=5Ow3EUF5E_k",
-        "dateCreated": "2018-11-16T05:00:00.000Z"
-    },
-    {
-        "title": "Field Hockey Highlights | Wake v Iowa (First Round NCAA)",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5f22cde4ad322466b9ba7e23_FH_NCAA_thumbnail.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=EyEtcoqeOWQ",
-        "dateCreated": "2018-11-09T05:00:00.000Z"
-    },
-    {
         "title": "Women's Tennis Stage Photos",
         "slug": "WomensTennisStagePhotos",
         "type": "photo",
@@ -393,49 +266,22 @@ var data = [
         "dateCreated": "2018-10-25T04:00:00.000Z"
     },
     {
-        "title": "2018 WFU vs. Penn St. | WSOC Highlights",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5d6b060ca3a53e07b8fce127_maxresdefault%20(6).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=YoBmf5U3AJo",
-        "dateCreated": "2018-09-02T04:00:00.000Z"
-    },
-    {
-        "title": "Cathlynn + Jeremy's Wedding",
+        "title": "Alicia + Derek Wedding ",
         "type": "video",
         "medium": "Portfolio",
         "genre": "Weddings",
-        "thumbnailFilename": "5d719e4ef0cb54cdef24ec17_hqdefault%20(1).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=v_vV7wNy6fs",
-        "dateCreated": "2018-08-18T04:00:00.000Z"
-    },
-    {
-        "title": "WFU vs. UND + FSU | Women's Tennis Promo",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "5d6b05c90b802024152d2acc_maxresdefault%20(5).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=WvWPv_MAcEM",
-        "dateCreated": "2018-03-25T04:00:00.000Z"
+        "thumbnailFilename": "http://i3.ytimg.com/vi/jPA0fCiafNw/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jPA0fCiafNw",
+        "dateCreated": "2020-10-10T04:00:00.000Z"
     },
     {
         "title": "WFU Madison Hammond More than an Athlete",
         "type": "video",
         "medium": "Portfolio",
-        "genre": "Game Recap",
+        "genre": "Sports",
         "thumbnailFilename": "5d719e7cf0cb5449a124eccb_hqdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=GtspJUGbiTw",
         "dateCreated": "2017-12-20T05:00:00.000Z"
-    },
-    {
-        "title": "Notre Dame Football: 2017-2018 HYPE VIDEO",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "5d6b07ad85adc96c9a0b783e_maxresdefault%20(8).jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=f2IDRSF6IvQ",
-        "dateCreated": "2017-06-07T04:00:00.000Z"
     }
 ];
 
