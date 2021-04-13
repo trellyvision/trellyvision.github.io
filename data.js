@@ -58,7 +58,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/kRZbxpbUQtY/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:kRZbxpbUQtY:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=kRZbxpbUQtY",
         "dateCreated": "2020-12-10T05:00:00.000Z"
     },
@@ -67,7 +67,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/YEIOOA68zKA/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:YEIOOA68zKA:hqdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=YEIOOA68zKA",
         "dateCreated": "2021-02-14T05:00:00.000Z"
     },
@@ -76,7 +76,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/w_blU6o_L2w/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:w_blU6o_L2w:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=w_blU6o_L2w",
         "dateCreated": "2020-12-10T05:00:00.000Z"
     },
@@ -85,7 +85,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/QlYX31f3gZ8/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:QlYX31f3gZ8:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=QlYX31f3gZ8",
         "dateCreated": "2020-12-03T05:00:00.000Z"
     },
@@ -94,7 +94,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/SNi0GiJrB-E/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:SNi0GiJrB-E:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=SNi0GiJrB-E",
         "dateCreated": "2020-09-20T04:00:00.000Z"
     },
@@ -112,7 +112,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/bjP7D9aJ39I/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:bjP7D9aJ39I:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=bjP7D9aJ39I",
         "dateCreated": "2020-11-01T04:00:00.000Z"
     },
@@ -121,7 +121,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/8mzuf8l2Zko/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:8mzuf8l2Zko:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=8mzuf8l2Zko",
         "dateCreated": "2020-10-15T04:00:00.000Z"
     },
@@ -130,7 +130,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/Uy1PCHOP_Wc/hqdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:Uy1PCHOP_Wc:hqdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=Uy1PCHOP_Wc",
         "dateCreated": "2021-01-10T05:00:00.000Z"
     },
@@ -139,7 +139,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/iNfKLfd5Dmw/hqdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:iNfKLfd5Dmw:hqdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=iNfKLfd5Dmw",
         "dateCreated": "2021-01-28T05:00:00.000Z"
     },
@@ -148,7 +148,7 @@ var data = [
         "type": "video",
         "medium": "Motion Graphics",
         "genre": "Sports",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/Om6ziZ6rDAA/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:Om6ziZ6rDAA:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=Om6ziZ6rDAA",
         "dateCreated": "2021-03-08T05:00:00.000Z"
     },
@@ -157,7 +157,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/ehCnDNhpoD4/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:ehCnDNhpoD4:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=ehCnDNhpoD4",
         "dateCreated": "2021-01-17T05:00:00.000Z"
     },
@@ -166,7 +166,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/16c2Fdu0xGY/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:16c2Fdu0xGY:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=16c2Fdu0xGY",
         "dateCreated": "2021-02-11T05:00:00.000Z"
     },
@@ -175,7 +175,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/EOkFEBf56B4/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:EOkFEBf56B4:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=EOkFEBf56B4",
         "dateCreated": "2021-02-14T05:00:00.000Z"
     },
@@ -194,7 +194,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/xC8RV5YOy14/maxresdefault.jpg",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:xC8RV5YOy14:maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=xC8RV5YOy14",
         "dateCreated": "2021-03-04T05:00:00.000Z"
     },
@@ -203,7 +203,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Game Recap",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/fWHW-mvqvk4/maxresdefault.jpg",
+        "thumbnailFilename": "Wake_Duke_FieldHockey_GameRecap_Thumbnail.jpeg",
         "youtubeUrl": "https://www.youtube.com/watch?v=fWHW-mvqvk4",
         "dateCreated": "2020-10-22T04:00:00.000Z"
     },
@@ -270,7 +270,7 @@ var data = [
         "type": "video",
         "medium": "Portfolio",
         "genre": "Weddings",
-        "thumbnailFilename": "http://i3.ytimg.com/vi/jPA0fCiafNw/maxresdefault.jpg",
+        "thumbnailFilename": "Alicia + Derek Wedding .jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=jPA0fCiafNw",
         "dateCreated": "2020-10-10T04:00:00.000Z"
     },
