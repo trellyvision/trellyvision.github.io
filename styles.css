@@ -104,6 +104,7 @@ h4 {
 
 .background-video {
 	height: 100vh;
+	min-height: 720px;
 	width: 100%;
 	position: absolute;
 	overflow: hidden;
