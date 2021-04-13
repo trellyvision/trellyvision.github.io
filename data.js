@@ -1,5 +1,140 @@
 var data = [
     {
+        "title": "Spreading the News | Wake Forest Women's Basketball Goes Dancing",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:Om6ziZ6rDAA:maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Om6ziZ6rDAA",
+        "dateCreated": "2021-03-08T05:00:00.000Z"
+    },
+    {
+        "title": "Women's Basketball Game Recap | Wake vs. UNC ACC Tourney",
+        "type": "video",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
+        "thumbnailFilename": "WBB_UNC_ACCTourney_GameRecap.jpeg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xC8RV5YOy14",
+        "dateCreated": "2021-03-04T05:00:00.000Z"
+    },
+    {
+        "title": "Ivana Raca In Her Bag Series (Clemson)",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:YEIOOA68zKA:hqdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YEIOOA68zKA",
+        "dateCreated": "2021-02-14T05:00:00.000Z"
+    },
+    {
+        "title": "Women's Basketball Game Recap | 2/14/21 Wake vs Clemson",
+        "type": "video",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
+        "thumbnailFilename": "WBB_Clemson_GameRecap.jpeg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EOkFEBf56B4",
+        "dateCreated": "2021-02-14T05:00:00.000Z"
+    },
+    {
+        "title": "Women's Basketball Game Recap | 2/11/21 Pitt vs. Wake",
+        "type": "video",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
+        "thumbnailFilename": "WBB_Pitt_GameRecap.jpeg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=16c2Fdu0xGY",
+        "dateCreated": "2021-02-11T05:00:00.000Z"
+    },
+    {
+        "title": "Gina Conti 2k Take Over",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:iNfKLfd5Dmw:hqdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iNfKLfd5Dmw",
+        "dateCreated": "2021-01-28T05:00:00.000Z"
+    },
+    {
+        "title": "Women's Basketball Game Recap | 1/17/21 Wake vs. VT",
+        "type": "video",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
+        "thumbnailFilename": "WBB_VT_GameRecap.jpeg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ehCnDNhpoD4",
+        "dateCreated": "2021-01-17T05:00:00.000Z"
+    },
+    {
+        "title": "Ivana Raca 2k Takeover Mode",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:Uy1PCHOP_Wc:hqdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Uy1PCHOP_Wc",
+        "dateCreated": "2021-01-10T05:00:00.000Z"
+    },
+    {
+        "title": "Wake Women's Basketball Intro Video",
+        "type": "video",
+        "medium": "Portfolio",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:kRZbxpbUQtY:maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kRZbxpbUQtY",
+        "dateCreated": "2020-12-10T05:00:00.000Z"
+    },
+    {
+        "title": "Women's Basketball Team Intro Motion Graphic",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:w_blU6o_L2w:maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=w_blU6o_L2w",
+        "dateCreated": "2020-12-10T05:00:00.000Z"
+    },
+    {
+        "title": "Nevaeh Brown Pregame Mix",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:QlYX31f3gZ8:maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QlYX31f3gZ8",
+        "dateCreated": "2020-12-03T05:00:00.000Z"
+    },
+    {
+        "title": "Women's Basketball Media Day BTS",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:bjP7D9aJ39I:maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bjP7D9aJ39I",
+        "dateCreated": "2020-11-01T04:00:00.000Z"
+    },
+    {
+        "title": "Field Hockey Game Recap | 10/22/2020 Duke vs. Wake",
+        "type": "video",
+        "medium": "Portfolio",
+        "genre": "Game Recap",
+        "thumbnailFilename": "Wake_Duke_FieldHockey_GameRecap_Thumbnail.jpeg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fWHW-mvqvk4",
+        "dateCreated": "2020-10-22T04:00:00.000Z"
+    },
+    {
+        "title": "Gina Conti Watching Ivana Raca Highlights",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:8mzuf8l2Zko:maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8mzuf8l2Zko",
+        "dateCreated": "2020-10-15T04:00:00.000Z"
+    },
+    {
+        "title": "Alicia + Derek Wedding ",
+        "type": "video",
+        "medium": "Portfolio",
+        "genre": "Weddings",
+        "thumbnailFilename": "Alicia + Derek Wedding .jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jPA0fCiafNw",
+        "dateCreated": "2020-10-10T04:00:00.000Z"
+    },
+    {
         "title": "Savage Roasters Commercial",
         "type": "video",
         "medium": "Portfolio",
@@ -7,6 +142,15 @@ var data = [
         "thumbnailFilename": "SavageRoasters_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=DOLk9qG_5Iw",
         "dateCreated": "2020-10-03T04:00:00.000Z"
+    },
+    {
+        "title": "Field Hockey Gameday Promo | UNC vs. Wake",
+        "type": "video",
+        "medium": "Motion Graphics",
+        "genre": "Sports",
+        "thumbnailFilename": "http-::i3.ytimg.com:vi:SNi0GiJrB-E:maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SNi0GiJrB-E",
+        "dateCreated": "2020-09-20T04:00:00.000Z"
     },
     {
         "title": "Wake Forest Women's Soccer Hype Video",
@@ -54,51 +198,6 @@ var data = [
         "dateCreated": "2020-05-08T04:00:00.000Z"
     },
     {
-        "title": "Wake Women's Basketball Intro Video",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:kRZbxpbUQtY:maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=kRZbxpbUQtY",
-        "dateCreated": "2020-12-10T05:00:00.000Z"
-    },
-    {
-        "title": "Ivana Raca In Her Bag Series (Clemson)",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:YEIOOA68zKA:hqdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=YEIOOA68zKA",
-        "dateCreated": "2021-02-14T05:00:00.000Z"
-    },
-    {
-        "title": "Women's Basketball Team Intro Motion Graphic",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:w_blU6o_L2w:maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=w_blU6o_L2w",
-        "dateCreated": "2020-12-10T05:00:00.000Z"
-    },
-    {
-        "title": "Nevaeh Brown Pregame Mix",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:QlYX31f3gZ8:maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=QlYX31f3gZ8",
-        "dateCreated": "2020-12-03T05:00:00.000Z"
-    },
-    {
-        "title": "Field Hockey Gameday Promo | UNC vs. Wake",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:SNi0GiJrB-E:maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=SNi0GiJrB-E",
-        "dateCreated": "2020-09-20T04:00:00.000Z"
-    },
-    {
         "title": "Wake The Nation!",
         "type": "video",
         "medium": "Motion Graphics",
@@ -106,78 +205,6 @@ var data = [
         "thumbnailFilename": "5f17861a8ee5d75748d741c7_WakeTheNation_thumbnail.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=WO6hGL14UAU",
         "dateCreated": "2020-02-27T05:00:00.000Z"
-    },
-    {
-        "title": "Women's Basketball Media Day BTS",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:bjP7D9aJ39I:maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=bjP7D9aJ39I",
-        "dateCreated": "2020-11-01T04:00:00.000Z"
-    },
-    {
-        "title": "Gina Conti Watching Ivana Raca Highlights",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:8mzuf8l2Zko:maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=8mzuf8l2Zko",
-        "dateCreated": "2020-10-15T04:00:00.000Z"
-    },
-    {
-        "title": "Ivana Raca 2k Takeover Mode",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:Uy1PCHOP_Wc:hqdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Uy1PCHOP_Wc",
-        "dateCreated": "2021-01-10T05:00:00.000Z"
-    },
-    {
-        "title": "Gina Conti 2k Take Over",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:iNfKLfd5Dmw:hqdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=iNfKLfd5Dmw",
-        "dateCreated": "2021-01-28T05:00:00.000Z"
-    },
-    {
-        "title": "Spreading the News | Wake Forest Women's Basketball Goes Dancing",
-        "type": "video",
-        "medium": "Motion Graphics",
-        "genre": "Sports",
-        "thumbnailFilename": "http-::i3.ytimg.com:vi:Om6ziZ6rDAA:maxresdefault.jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=Om6ziZ6rDAA",
-        "dateCreated": "2021-03-08T05:00:00.000Z"
-    },
-    {
-        "title": "Women's Basketball Game Recap | 1/17/21 Wake vs. VT",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Game Recap",
-        "thumbnailFilename": "WBB_VT_GameRecap.jpeg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=ehCnDNhpoD4",
-        "dateCreated": "2021-01-17T05:00:00.000Z"
-    },
-    {
-        "title": "Women's Basketball Game Recap | 2/11/21 Pitt vs. Wake",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Game Recap",
-        "thumbnailFilename": "WBB_Pitt_GameRecap.jpeg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=16c2Fdu0xGY",
-        "dateCreated": "2021-02-11T05:00:00.000Z"
-    },
-    {
-        "title": "Women's Basketball Game Recap | 2/14/21 Wake vs Clemson",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Game Recap",
-        "thumbnailFilename": "WBB_Clemson_GameRecap.jpeg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=EOkFEBf56B4",
-        "dateCreated": "2021-02-14T05:00:00.000Z"
     },
     {
         "title": "ITA Carolina Regionals",
@@ -188,24 +215,6 @@ var data = [
         "thumbnailFilename": "5f2231c4820e0b5b586ed2e9_Lexi%2BPeyton5.png",
         "photoFilenames": "5f222db0f4f1e88101ca4982_Anna_Brylin7.png,5f222db063ca0903d510c10c_Anna_Brylin8.png,5f222deb68fd8efce8bca08c_Anna_Brylin.png,5f222e5700b770390599a801_Anna_Campana5.png,5f222e7887c2cd19745cfb86_Anna_Campana6.png,5f222eb65a32ac1edd1782b0_Carolyn.png,5f222ef386393981fe020740_Carolyn2.png,5f222f3aaebf57eea89fb15b_Eliza3.png,5f222f625a32acef3017849a_Eliza4.png,5f222fd06eac47c5c99c3211_Eliza5.png,5f222ff6ba48deabfa559fd1_Eliza6.png,5f223026bfc5c6ca977aa672_Lexi%2BPeyton3.png,5f22304e6a43cf0da3e688ac_Lexi2.png,5f22307db57c7a1091c72224_Lexi3.png,5f2230b363ca09cf4210c52e_Lexi8.png,5f2230dd53fb855a02ce66ca_Lexi9.png,5f22313353fb858581ce67b0_MC.png,5f2231c4820e0b5b586ed2e9_Lexi%2BPeyton5.png,5f2232008f5d4c23d82fd661_Peyton2.png,5f223221abe392768700bbe4_Peyton3.png,5f2232598f5d4c44d02fd6d3_Saby2.png,5f22327acb4fb31d42441552_Saby3.png,5f2232c26eac4704ae9c3a36_Saby4.png,5f2232e4c3cfa01f781843ee_Saby5.png,5f223300edf09d8fd6287d9e_Saby7.png",
         "dateCreated": "2019-10-28T04:00:00.000Z"
-    },
-    {
-        "title": "Women's Basketball Game Recap | Wake vs. UNC ACC Tourney",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Game Recap",
-        "thumbnailFilename": "WBB_UNC_ACCTourney_GameRecap.jpeg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=xC8RV5YOy14",
-        "dateCreated": "2021-03-04T05:00:00.000Z"
-    },
-    {
-        "title": "Field Hockey Game Recap | 10/22/2020 Duke vs. Wake",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Game Recap",
-        "thumbnailFilename": "Wake_Duke_FieldHockey_GameRecap_Thumbnail.jpeg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=fWHW-mvqvk4",
-        "dateCreated": "2020-10-22T04:00:00.000Z"
     },
     {
         "title": "Chad + Alanna Engagement",
@@ -264,15 +273,6 @@ var data = [
         "thumbnailFilename": "5f2226753166e46a0c5bba6a_Anna1631.png",
         "photoFilenames": "5f22264fcb4fb395fc43ff03_Anna1308.png,5f2226753166e46a0c5bba6a_Anna1631.png,5f22269f3166e417175bba70_Anna1635.png,5f2226ca87c2cd02ff5ce177_Chand1935.png,5f2226eebfc5c6fb967a8279_chandler1599.png,5f2227155a32acd2cc1774e9_chandler01613.png,5f222736fd51880ed9ad4c26_Eliza1519.png,5f222755f9d1b10b44e5bd3e_Eliza1526.png,5f22277607bc7fb1c36832eb_Emma1313.png,5f2227935a32ac768e177552_Emma1799.png,5f2227bb8f5d4c66a52fc8b0_Jojo1469.png,5f2227db00b7705470999da8_Jojo1589.png,5f2227fe68e45978358861da_Lexi.png,5f22282d9cca2864aeb9e915_Lexi1374.png,5f2228618639393b8f01fbc0_Lexi1384.png,5f2228937682cb421b23a7c0_PeytonPesavento1.png,5f2228bf63183f0f6bffeba3_PeytonPesavento4.png,5f2228f063009c93d3ddcbd4_PeytonPesavento5.png,5f22291c63009c2360ddcc62_Saby1564.png,5f22295d7be7e639e9de876a_Saby1568.png",
         "dateCreated": "2018-10-25T04:00:00.000Z"
-    },
-    {
-        "title": "Alicia + Derek Wedding ",
-        "type": "video",
-        "medium": "Portfolio",
-        "genre": "Weddings",
-        "thumbnailFilename": "Alicia + Derek Wedding .jpg",
-        "youtubeUrl": "https://www.youtube.com/watch?v=jPA0fCiafNw",
-        "dateCreated": "2020-10-10T04:00:00.000Z"
     },
     {
         "title": "WFU Madison Hammond More than an Athlete",
