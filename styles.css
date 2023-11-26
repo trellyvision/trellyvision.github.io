@@ -226,6 +226,10 @@ a.action button .arrow {
 	font-size: 18px;
 }
 
+a.action button .arrow .hero-arrow {
+	font-size: 21px;
+}
+
 a.action button:hover .arrow {
 	transform: translateY(3px) translateX(4px);
 }
