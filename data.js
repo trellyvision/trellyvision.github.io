@@ -299,7 +299,7 @@ var defaultMedium = 'Portfolio';
 var defaultGenre = 'All';
 
 var filters = {
-    'Portfolio': ['All', 'Sports', 'Game Recap', 'Weddings'],
+    'Portfolio': ['All', 'Sports', 'Game Recap', 'Weddings', 'Social Content'],
     'Motion Graphics': ['All', 'Sports'],
     'Photography': ['All', 'Sports', 'Weddings']
 }
